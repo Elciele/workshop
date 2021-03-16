@@ -1,0 +1,90 @@
+.caixa-header {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url('../img/elciele.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 80vh;
+  }
+  
+  .btn-branco{
+    background-color: #faf3f3;
+    padding: 15px;
+    width: 180px;
+    border-radius: 80px;
+  }
+  /*=========SECAO DE CONTEUDO============*/
+  
+  h2 {
+    font-size: 36px;
+    color: #8f7878;
+    margin: 50px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #770d77;
+    margin: 50px;
+  }
+  .caixa-secao-conteudo{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .caixa-somente-conteudo{
+    display: flex;
+    margin:25px 55px;
+  }
+  
+  .btn-roxo {
+    padding: 15px;
+    width: 190px;
+    border-radius: 80px;
+    border: #770d77 1px solid;
+    color: #770d77;
+  }
+  
+  .caixa-texto-sobre-mim{
+    margin-bottom: 40px;
+  }
+  
+  .caixa-sobre-mim{
+  width: 40%;
+  }
+  
+  .caixa-lista-sobre-mim{
+    width: 40%;
+    margin-left: 50px;
+  }
+  
+  /*============redes sociais============*/
+  
+  .caixa-item-rede-social{
+    padding: 20px;
+    text-align: center;
+    background-color:#770d77;
+    width: 180px;
+    height: 180px;
+    margin-right: 40px;
+  }
+  
+  .link-rede-social{
+    color: white;
+  }
+  
+  .caixa-mae-rede-social{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  footer{
+    text-align: center;
+    color: #C4C4C4;
+    padding: 30px;
+  }

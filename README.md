@@ -1,8 +1,9 @@
-# Titulo
-**Teste**
-* Item 1
-* Item 2
-* Item 3
-1. Item 1
-2. Item 2
-3. Item 3
+# Página Pessoal
+## Criada durante processo seletivo para o curso de desenvolvimento web front-end da <https://reprograma.com.br/>
+
+
+
+* Nessa página tem um breve resumo sobre mim
+* Utilizado as linguagens de marcação HTML e CSS
+* Recursos de imagens
+* Hiperlink para as minhas redes sociais
